@@ -51,9 +51,9 @@ ul {
 }
 
 .contacts a {
-    color: #39930d;
+    color: red;
     text-decoration: none;
-    margin: 6px 0;
+    margin: 10px 0;
 }
 
 .contacts a:hover {
@@ -81,7 +81,7 @@ ul {
 }
 
 .aside p {
-    color: #5a5a5a;
+    color: purple;
     background-color: #39930d;
     font-size: 18px;
     line-height: 1.5em;
